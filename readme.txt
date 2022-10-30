@@ -4,4 +4,6 @@ git has a mutable index called stage
 git tracks changes of file
 dsadasdadasdas
 dsadasdadasdassadadasda
-dsadsadsadassadasdasdasdsadasd
+dsadsadsadassadasdasd
+dsadasdadasdas
+dsadas1
